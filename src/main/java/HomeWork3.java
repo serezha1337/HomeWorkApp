@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class HomeWork3 {
     public static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        //arrayFirstTask();
+        arrayFirstTask();
         //arraySecondTask();
         //arrayThirdTask();
         //squareArrayFourthTask();
