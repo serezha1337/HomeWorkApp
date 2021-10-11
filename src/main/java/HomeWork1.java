@@ -1,4 +1,4 @@
-public class HomeWork_1 {
+public class HomeWork1 {
     public static void main(String[] args) {
         printTreeWords();
         checkSumSign();
