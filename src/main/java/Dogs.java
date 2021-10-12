@@ -5,7 +5,7 @@ public class Dogs extends Animals{
 
     @Override
     public void animalInfo() {
-        System.out.println("Собака: "+ getName());
+        System.out.println("Собаkа: "+ getName());
     }
 
     @Override

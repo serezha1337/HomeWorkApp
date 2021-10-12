@@ -13,7 +13,7 @@ public class Animals {
     }
 
     public void animalInfo(){
-        System.out.println("Животное: " + name);
+        System.out.println("Животноe: " + name);
     }
     public void running(int run){
         System.out.println("Питомец пробежал %d метров" + run);
